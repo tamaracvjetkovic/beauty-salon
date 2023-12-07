@@ -56,7 +56,7 @@ Access to data regarding the total number of treatments performed.
 After downloading all files, you can open the project in Java IDE and run the program/
 
 
-# Izgled
+# Visual design:
 ![Screenshot](screenshot1.png)
 ![Screenshot](screenshot2.png)
 ![Screenshot](screenshot3.png)
