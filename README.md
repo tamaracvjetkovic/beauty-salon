@@ -1,14 +1,13 @@
-# Tamara Cvjetkovic
-
-
-Beauty Salon
+AUTHOR: Tamara Cvjetković
+# 
 
 
 # Name of the project
 Beauty Salon: application for a beauty salon.
+# 
 
 
-# INFORMATIONS ABOUT THE STUDENT
+# INFORMATIONS ABOUT THE AUTHOR
 - NAME: Tamara Cvjetković
 - STUDENT INDEX: sv48-2022
 - FACULTY: Faculty of Technical Science, Novi Sad
@@ -16,7 +15,8 @@ Beauty Salon: application for a beauty salon.
 - ACADEMIC DEGREE: Bachelor with Honours in Software Engineering
 
 - CONTACT: c.tamara02@gmail.com || cvjetkovic.sv48.2022@uns.ac.rs
-- PHONE: +381 65 4468 114 (Serbia) || +387 66 868 639 (BiH)
+- PHONE: +38165 4468 114 (Serbia) || +38766 868 639 (BiH)
+# 
 
 
 # Project description
@@ -24,11 +24,20 @@ Project from subject named "Object-Oriented Programming"
 FTN SIIT, 2nd semester, Novi Sad, 2023.
 
 Beauty Salon is an object-oriented, event-driven, GUI application for a Beauty Salon (Java + Java Swing, with CRUD operations and serialization). Supports four user roles with distinct functionalities based on login credentials (Manager, Clients, Beauticians, Receptionists).
+# 
 
 
 # For the development of the application, the following tools were utilized:
 - Java
 - Java Swing
+# 
+
+
+# Visual design:
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
+# 
 
 
 # Functionalities:
@@ -47,10 +56,12 @@ Access to a comprehensive record of all performed treatments.
 4) RECEPTIONISTS:
 Authority to schedule or reschedule treatments on behalf of clients.
 Access to data regarding the total number of treatments performed.
+#
 
 
 # How to start the application:
-After downloading all files, you can open the project in Java IDE and run the program/
+After downloading all files, you can open the project in Java IDE and run the program.
+#
 
 
 # How to use
@@ -64,9 +75,4 @@ On the profile window, there is a "Meni" where you can access all you previous/f
 On button "Raspored" you can see your word calendar/schedule of upcoming treatments that need to be done. On button "Izvrsi tretman" you "do" the treatment and mark it with "Done".
 4) RECEPTIONISTS:
 With "Zakazi tretman" you schedule a treatment for clients. You have all options that client has during scheduling a treatment. After clicking on "Meni", all scheduled treatments in the system are listed, where you can edit their state ("scheduled", "canceled", "done" etc..).
-
-
-# Visual design:
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
-![Screenshot](screenshot3.png)
+#
