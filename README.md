@@ -6,10 +6,16 @@ A GUI application for a beauty salon.
 
 This was an university project for the course "Object-Oriented Programming 1", taken in the 2nd semester of the Software Engineering and Information Technologies program.
 
+The ``goal`` of the project was to:
+- become familiar with Java
+- apply object-oriented programming principles,
+- build a decent GUI using Java Swing,
+
+#
 Technologies used: 
 - ``Java``
 - ``Java Swing``
-
+#
 Date: March, 2023.
 
 ---
