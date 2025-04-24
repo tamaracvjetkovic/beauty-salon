@@ -30,7 +30,7 @@ Date: March, 2023.
 
 ---
 
-# Visual design: 🖼️
+# Visual Design ✨
 ![Screenshot](screenshot1.png)
 ![Screenshot](screenshot2.png)
 ![Screenshot](screenshot3.png)
